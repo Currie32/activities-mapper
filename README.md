@@ -2,6 +2,8 @@
 
 A simple site to help you find things to do/eat/drink!
 
+Link: https://activities-in-london.web.app/
+
 Hopefully you'll see it as a good resource to either:
 - Build a [simple react app](https://reactjs.org/docs/create-a-new-react-app.html)
 - Use a [Google Maps API](https://developers.google.com/maps)
